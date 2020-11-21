@@ -1,3 +1,3 @@
 # coding-test
-* test1 - 서울에서 김서방 찾기  
-* test2 - 수박수박수박수박수박수?  
+* test1 - <a href='https://github.com/shinno1/coding-test/blob/main/codingTest/src/codingTest/test1.java'>서울에서 김서방 찾기</a>  
+* test2 - <a href='https://github.com/shinno1/coding-test/blob/main/codingTest/src/codingTest/test2.java'>수박수박수박수박수박수?</a>
